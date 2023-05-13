@@ -1,7 +1,7 @@
 import React from 'react';
 import './ShopCard.css';
 
-function ShopCard({card, key}) {
+function ShopCard({card}) {
   console.log('ShopCard ');
   return (
     <div className='shopCard'>
